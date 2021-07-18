@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Name:- Rudra Pratap Singh 
-# 
-# # Task 5:- Exploratory Data Analysis - Retail
-# 
-# # Iot & Computer Vision Intern 
-# 
-# # The Sparks Foundation
+
+# Name:- Rudra Pratap Singh 
+# Task 5:- Exploratory Data Analysis - Retail 
+# Iot & Computer Vision Intern 
+# The Sparks Foundation
+
+
+
 
 # In[1]:
 
